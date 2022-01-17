@@ -9,3 +9,5 @@ Key features of the app:
 4)No restriction on number of users
 5)Real time update along with chat and data base(real time synchronization).
 6)Can be used and scaled among different groups and organizations.
+7)Sign in and Sign out features exist
+8)Database rules can be modified
